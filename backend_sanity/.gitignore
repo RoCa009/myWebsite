@@ -1,8 +1,8 @@
 # dependencies
-/backend_sanity/node_modules
+node_modules
 /.pnp
 .pnp.js
-/backend_sanity/node_modules
+./node_modules
 backend_sanity/node_modules
 
 # testing
