@@ -2,7 +2,7 @@
 /backend_sanity/node_modules
 /.pnp
 .pnp.js
-/backend_sanity/node_modules
+/MyWebSite/node_modules
 
 # testing
 /coverage
