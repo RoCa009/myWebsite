@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 import { About, Footer, Header, Skills, Testimonial, Work } from './container';
 import { Navbar} from './components';
+import './styles/App.scss';
+
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="app">
         <Navbar />
         <Header />
         <About />
