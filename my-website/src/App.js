@@ -1,13 +1,18 @@
 import React, { Component } from 'react';
-import './App.css';
+import { About, Footer, Header, Skills, Testimonial, Work } from './container';
+import { Navbar} from './components';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-header">
-          <h2>Bienvenidos a mi sitio web</h2>
-        </div>
+        <Navbar />
+        <Header />
+        <About />
+        <Work />
+        <Skills />
+        <Testimonial />
+        <Footer />
       </div>
     );
   }
