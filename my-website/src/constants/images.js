@@ -36,7 +36,8 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 import Yo from '../assets/myLogo.jpg';
-import Rodrigo from '../assets/Rodrigo.svg'
+import Rodrigo from '../assets/Rodrigo.svg';
+import ProfileM from '../assets/ProfileM.jpg';
 
 export default {
   email,
@@ -73,5 +74,6 @@ export default {
   skype,
   spotify,
   Yo,
-  Rodrigo
+  Rodrigo,
+  ProfileM
 };
