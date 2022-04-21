@@ -21,7 +21,7 @@ const About = () => {
     <>
     <h2 className='head-text'>
       Sé que 
-      <span> Un buen diseño</span>
+      <span> un buen diseño</span>
       <br />
       lo es
       <span className='green'> TODO</span>
